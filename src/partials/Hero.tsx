@@ -43,7 +43,7 @@ const Hero = () => (
             href="https://stackoverflow.com/users/9064937/zulfiqar-laili"
           >
             <HeroSocial
-              src="/assets/images/stackoverflow-icon.png"
+              src="/assets/images/stackoverflow2-icon.png"
               alt="Stackoverflow icon"
             />
           </a>
