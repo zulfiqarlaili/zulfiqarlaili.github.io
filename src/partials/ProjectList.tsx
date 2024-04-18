@@ -63,7 +63,7 @@ const ProjectList = () => (
       <Project
         name="Just Type"
         description="Are you having trouble to WhatsApp someone but you don`t want to save their number? Just type their number and hit enter."
-        link="/"
+        link="https://just-type.com"
         img={{ src: '/assets/images/just-type.jpg', alt: 'JustType' }}
         category={
           <>
